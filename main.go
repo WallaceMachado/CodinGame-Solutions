@@ -15,7 +15,7 @@ func main() {
 
 func ordemdecrescenteString() {
 
-	a := "abcdef"
+	a := "abcdefg"
 	var b []string
 
 	for _, v := range a {
